@@ -4,7 +4,7 @@
 - [What is a Raspnerry pi pico?](#What-is-a-Raspnerry-pi-pico?)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-   - [Links](#links)
+  - [Links](#links)
   - [Installation](#installation)
 - [Contributing](#contributing)
 
