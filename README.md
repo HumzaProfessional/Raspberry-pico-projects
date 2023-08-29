@@ -1,10 +1,17 @@
 # Raspberry-pico-projects
 
 ## Table of Contents
-[Introduction](#introduction)
-[What is a Raspnerry pi pico?](#What is a Raspnerry pi pico?)
+## Table of Contents
 
-#Introductiom
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ### What is a Raspnerry pi pico?
 The files in this repository are for simple projects for the Raspberry Pi Pico. A cheaper and smaller version of the Raspberry PI. It is a good alternative for the tradional Raspberry Pi to learn python, hardware/software interaction, and simple electronics. 
