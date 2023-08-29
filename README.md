@@ -22,6 +22,9 @@ In order to do these projects, make sure you have a Pico Display unit, Raspberry
 Raspberry pi pico
 https://www.amazon.com/Pico-Raspberry-Pre-Soldered-Dual-core-Processor/dp/B0BK9W4H2Q/ref=sr_1_5?keywords=raspberry+pi+pico&qid=1693333709&sr=8-5
 
+Pico display
+https://shop.pimoroni.com/products/pico-display-pack?variant=32368664215635
+
 ### Installation
 
 Thonny is a useful and simple python intrepter useful for programming PICOs. 
