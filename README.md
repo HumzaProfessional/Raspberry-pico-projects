@@ -1,7 +1,6 @@
 # Raspberry-pico-projects
 
 ## Table of Contents
-
 - [What is a Raspnerry pi pico?](#What-is-a-Raspnerry-pi-pico?)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -14,10 +13,10 @@ The files in this repository are for simple projects for the Raspberry Pi Pico. 
 
 ## Getting Started
 
-###Prerequisites
+### Prerequisites
 
 In order to do these projects, make sure you have a Pico Display unit, Raspberry Pi usb cable(most likely comes with it when you buy the PICO), a micropython intrepter and a few electronic trinkets(wires, diodes, and a breadboard(isn't necessary but can be useful)). 
 
-###Installation
+### Installation
 
 Thonny is a useful and simple python intrepter useful for programming PICOs. 
