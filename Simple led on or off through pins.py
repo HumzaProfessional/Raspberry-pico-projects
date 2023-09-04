@@ -1,7 +1,7 @@
 import time #needed for led to blink
 from machine import Pin #needed for (GPIO)Pin interaction
 
-led=Pin(13, Pin.OUT)
+led=Pin(13, Pin.OUT) # 13 is the pin the negative ternimal of the led is connected to.
 
 var = int(input("Type in 1 or 2 or 3 "))
 x = True
