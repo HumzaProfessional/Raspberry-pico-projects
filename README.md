@@ -16,7 +16,11 @@ The files in this repository are for simple projects for the Raspberry Pi Pico. 
 
 ### Prerequisites
 
-In order to do these projects, make sure you have a Pico Display unit, Raspberry Pi usb cable(most likely comes with it when you buy the PICO), a micropython intrepter and a few electronic trinkets(wires, diodes, and a breadboard(isn't necessary but can be useful)). 
+In order to do these projects, make sure you have:
+Pico Display unit
+Raspberry Pi usb cable(most likely comes with it when you buy the PICO), 
+a micropython intrepter
+electronic componenets (wires, diodes, and a breadboard(isn't necessary but can be useful)). 
 
 #### Links
 Raspberry pi pico
@@ -24,6 +28,9 @@ https://www.amazon.com/Pico-Raspberry-Pre-Soldered-Dual-core-Processor/dp/B0BK9W
 
 Pico display
 https://shop.pimoroni.com/products/pico-display-pack?variant=32368664215635
+
+Thonny IDE
+https://thonny.org
 
 ### Installation
 
