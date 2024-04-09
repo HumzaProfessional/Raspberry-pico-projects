@@ -71,8 +71,8 @@ In general circuit terminology, ground generally could refer to the literal grou
 #### Advanced features
 
 ### Components
-
-- ![LED](https://github.com/HumzaProfessional/Raspberry-pico-projects.github.io/blob/main/annotatedLEDSA.png)
+- LED
+![LED](https://github.com/HumzaProfessional/Raspberry-pico-projects.github.io/blob/main/annotatedLEDSA.png)
   
 
 ## Projects
