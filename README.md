@@ -53,7 +53,9 @@ In summary:
 
 This showcases the layout of the PICO. Each of the numbers are different pins,and the words next to them are the their usage. There are many different functionalities on the PICO, showing how versatile it is!
 
-### Basic features
+### Features
+
+#### Basic features
 
 - GPIO
 
@@ -66,6 +68,12 @@ Basically, the pin that directs the flow of electricity out, comepleting the cir
 
 In general circuit terminology, ground generally could refer to the literal ground or to the point the electity returns. This insight can be used as a refernce for Electircal devices such as power cables. However, generally speaking, the ground refers to a point in a cirucit that has 0 potential energy, thus allowing the energy to flow back safelty and complete the cirucit. When desigining on the PICO, just know that the ground is how the negative and positive temrinals are conecected.
 
+#### Advanced features
+
+### Components
+
+- ![LED](https://github.com/HumzaProfessional/Raspberry-pico-projects.github.io/blob/main/annotatedLEDSA.png)
+  
 
 ## Projects
 
@@ -73,6 +81,7 @@ In general circuit terminology, ground generally could refer to the literal grou
 
 
 This basic project will allow you to make an led turn off and on, a blinking light. You need to connected the negative terminal of the led to a GPIO and the postive to ground, refer to the diagram to set this up correctly.
+
 
 
 ``` python
