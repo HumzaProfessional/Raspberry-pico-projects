@@ -49,7 +49,7 @@ In summary:
 
 ## Understanding
 
-![Alt text](url_to_your_image)
+![Raspberry Pico Diagram](https://github.com/HumzaProfessional/Raspberry-pico-projects/blob/main/pico%20diagram.png)
 
 
 
