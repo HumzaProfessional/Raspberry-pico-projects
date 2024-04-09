@@ -17,10 +17,10 @@ The files in this repository are for simple projects for the Raspberry Pi Pico. 
 ### Prerequisites
 
 In order to do these projects, make sure you have:
-Pico Display unit
-Raspberry Pi usb cable(most likely comes with it when you buy the PICO), 
-a micropython intrepter
-electronic componenets (wires, diodes, and a breadboard(isn't necessary but can be useful)). 
+- Pico Display unit
+- Raspberry Pi usb cable(most likely comes with it when you buy the PICO), 
+- a micropython intrepter
+- electronic componenets (wires, diodes, and a breadboard(isn't necessary but can be useful)). 
 
 #### Links
 Raspberry pi pico
