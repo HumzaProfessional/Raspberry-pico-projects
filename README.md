@@ -6,7 +6,7 @@
   - [Prerequisites](#prerequisites)
   - [Links](#links)
   - [Installation](#installation) 
-- [What is a Raspnerry pi pico?](#What-is-a-Raspnerry-pi-pico?)
+- [Understanding the PICO unit](#understanding)
 - [Projects](#projects)
 - [Contributing](#contributing)
 
