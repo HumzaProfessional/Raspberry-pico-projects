@@ -56,9 +56,15 @@ This showcases the layout of the PICO. Each of the numbers are different pins,an
 ### Basic features
 
 - GPIO
-- 
+
 This stands for General purpose Input and Output and are pins that allow the Raspberry PI to interact with the phyiscal world. This allows it to send signals to other electronic conponents. 
 When programming the PICO, the intepreter allocates each pin to a number. For example, GP0 is the first pin.
+
+- Ground
+
+Basically, the pin that directs the flow of electricity out, comepleting the circuit. If the GPIO are responsible for connections, then the ground pins are responsbile for returing those connections back to the PICO. 
+
+In general circuit terminology, ground generally could refer to the literal ground or to the point the electity returns. This insight can be used as a refernce for Electircal devices such as power cables. However, generally speaking, the ground refers to a point in a cirucit that has 0 potential energy, thus allowing the energy to flow back safelty and complete the cirucit. When desigining on the PICO, just know that the ground is how the negative and positive temrinals are conecected.
 
 
 ## Projects
