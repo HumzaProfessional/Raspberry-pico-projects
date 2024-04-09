@@ -71,6 +71,16 @@ In general circuit terminology, ground generally could refer to the literal grou
 #### Advanced features
 
 ### Components
+
+- Wires
+  - Male to female
+  - Male to Male
+  - Female to Female
+
+- Resistors
+
+- Breadboard
+  
 - LED
 
 ![LED](https://github.com/HumzaProfessional/Raspberry-pico-projects.github.io/blob/main/annotatedLEDSA.png)
@@ -81,7 +91,7 @@ In general circuit terminology, ground generally could refer to the literal grou
 ### Project 1 - Led on and off
 
 
-This basic project will allow you to make an led turn off and on, a blinking light. You need to connected the negative terminal of the led to a GPIO and the postive to ground, refer to the diagram to set this up correctly.
+This basic project will allow you to make an led turn off and on, a blinking light. You need to connected the negative terminal of the led to a GPIO and the postive to ground, make sure a reisisotr is connected to the negative terminal. Refer to the diagram to set this up correctly. 
 
 
 
