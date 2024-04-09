@@ -6,7 +6,7 @@
   - [Prerequisites](#prerequisites)
   - [Links](#links)
   - [Installation](#installation)
-- [Understanding the PICO unit](#understand)
+  - [Understanding the PICO unit](#understand)
 - [Projects](#projects)
 - [Contributing](#contributing)
 
