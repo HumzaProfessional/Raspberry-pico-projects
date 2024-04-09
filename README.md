@@ -136,7 +136,7 @@ time.sleep(.5)
 led.off
 time.sleep(.5)
 led.on
-time.sleep(1)
+time.sleep(.1)
 ```
 
 ## Contributing
