@@ -6,11 +6,13 @@
   - [Prerequisites](#prerequisites)
   - [Links](#links)
   - [Installation](#installation)
+- [Understanding the PICO unit](#understand)
+- [Projects](#projects)
 - [Contributing](#contributing)
 
 
 ## What is a Raspberry pi pico? 
-The files in this repository are for simple projects for the Raspberry Pi Pico. A cheaper and smaller version of the Raspberry PI. It is a good alternative for the tradional Raspberry Pi to learn python, hardware/software interaction, and simple electronics.
+The files in this repository are for simple projects for the Raspberry Pi Pico. A cheaper and smaller version of the Raspberry PI. It is a good alternative for the tradional Raspberry Pi to learn python, hardware/software interaction, and simple electronics. The PICO version is still very versatile and can be used to make many sorrs of prjects!
 
 ## Getting Started
 
@@ -20,7 +22,7 @@ In order to do these projects, make sure you have:
 - Pico Display unit
 - Raspberry Pi usb cable(most likely comes with it when you buy the PICO), 
 - a micropython intrepter
-- electronic componenets (wires, diodes, and a breadboard(isn't necessary but can be useful)). 
+- electronic componenets (wires, diodes, and a breadboard(isn't necessary but will be useful)). 
 
 #### Links
 Raspberry pi pico
@@ -34,4 +36,18 @@ https://thonny.org
 
 ### Installation
 
-Thonny is a useful and simple python intrepter useful for programming PICOs. 
+Thonny is a useful and simple python intrepter useful for programming PICOs. It is also reccommended by the developers themselves. 
+
+https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/2 - The offical guide explains the steps straightforwardly.
+
+In summary:
+
+- Install thonny on your operating system, the website has the appropriate inscrutionss given the OS.
+- Launch the IDE and find and hold the boostel button on your PICO - the tiny button. Then plug in your PICO to your computer.
+- On the bottom right corner of the IDE window it should show your python version. Click it and it should show "MicroPython (Raspberry PICO)".
+- Click on it and it should ask to install the firmware. Onec done, you can start programming the PICO!
+
+## Understanding the PICO unit
+
+
+
