@@ -12,7 +12,7 @@
 
 
 ## What is a Raspberry pi pico? 
-The files in this repository are for simple projects for the Raspberry Pi Pico. A cheaper and smaller version of the Raspberry PI. It is a good alternative for the tradional Raspberry Pi to learn python, hardware/software interaction, and simple electronics. The PICO version is still very versatile and can be used to make many sorrs of prjects!
+The files in this repository are for simple projects for the Raspberry Pi Pico. A cheaper and smaller version of the Raspberry PI. It is a good alternative for the tradional Raspberry Pi to learn python, hardware/software interaction, and simple electronics. The PICO version is still very versatile and can be used to make many sorts of projects!
 
 ## Getting Started
 
@@ -56,6 +56,7 @@ This showcases the layout of the PICO. Each of the numbers are different pins,an
 ### Basic features
 
 - GPIO
+
 This stands for General purpose Input and Output and are pins that allow the Raspberry PI to interact with the phyiscal world. This allows it to send signals to other electronic conponents. 
 When programming the PICO, the intepreter allocates each pin to a number. For example, GP0 is the first pin.
 
