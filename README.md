@@ -69,8 +69,15 @@ In general circuit terminology, ground generally could refer to the literal grou
 
 ## Projects
 
+### Project 1 - Led on and off
 
-``` from machine import Pin
+
+This basic project will allow you to make an led turn off and on, a blinking light. You need to connected the negative terminal of the led to a GPIO and the postive to ground, refer to the diagram to set this up correctly.
+
+
+``` python
+from machine import Pin
 import time
+```
 
 
