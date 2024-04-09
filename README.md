@@ -49,7 +49,7 @@ In summary:
 
 ## Understanding
 
-![Raspberry Pico Diagram](https://github.com/HumzaProfessional/Raspberry-pico-projects/blob/main/pico%20diagram.png)
+![Raspberry Pico Diagram](https://github.com/HumzaProfessional/Raspberry-pico-projects/blob/main/Pico-R3-Pinout.png)
 
 
 
