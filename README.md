@@ -6,7 +6,7 @@
   - [Prerequisites](#prerequisites)
   - [Links](#links)
   - [Installation](#installation) 
-- [Understanding the PICO unit](#understanding)
+- [Understanding](#understanding)
 - [Projects](#projects)
 - [Contributing](#contributing)
 
@@ -47,7 +47,7 @@ In summary:
 - On the bottom right corner of the IDE window it should show your python version. Click it and it should show "MicroPython (Raspberry PICO)".
 - Click on it and it should ask to install the firmware. Onec done, you can start programming the PICO!
 
-## Understanding the PICO unit
+## Understanding
 
 
 
