@@ -48,8 +48,10 @@ In summary:
 - Click on it and it should ask to install the firmware. Onec done, you can start programming the PICO!
 
 ## Understanding the PICO unit
-
 The pico
+yytu
+
+yui
 
 
 
