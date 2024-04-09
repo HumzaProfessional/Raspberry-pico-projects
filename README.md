@@ -49,6 +49,7 @@ In summary:
 
 ## Understanding
 
+![Alt text](url_to_your_image)
 
 
 
