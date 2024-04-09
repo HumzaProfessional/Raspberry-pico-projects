@@ -86,8 +86,32 @@ This basic project will allow you to make an led turn off and on, a blinking lig
 
 
 ``` python
-from machine import Pin
-import time
+from machine import Pin  // If unaware of python, machine is a library that used by the raspberry pi micropython language to allow functions such as pins usage
+import time  // the time is needed to allows the led to be able behave the we want it to.
 ```
+This is the basic setup of all program we will be writing, mention a library and call the functions we want to use. In this case the funcitons Pin and time. These two will be common.
 
+
+``` python
+led = Pin(25, Pin.OUT) # 25 is the pin the led's negative terminal is connnected to. Pin.OUT is any ground pin.
+
+led.on()            # Led turns on for the first time
+time.sleep(.25)     # Led stay on for .25 seconds
+
+led.off()          # Led turns off
+time.sleep(.25)    # Led stays off for .25 seconds
+```
+This the central part of the program where the blink of the led occurs.
+
+The first statement defines how led connecetion to the PICO. In this case, is is powered from pin 25 and returns back to the PICO through GND.
+
+The led.on() informs the pico to send a signal to the led, turning it on. The time.sleep(.25) make sures it stays on for .25 seconds. It sleep function ensured the next signal happens at a dealy of .25 seconds.
+The led.of() is similar, turn off the signal and do so for time of .25 seconds. Give this basic setup, the last sleep function doen't mean much, since nothing follows the off signal delay.
+
+However, we add more on and off processeses and change the delays to get some interesting blinking behavior...
+
+
+## Contributing
+
+https://projects.raspberrypi.org/en/#hardware
 
