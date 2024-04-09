@@ -56,6 +56,7 @@ This showcases the layout of the PICO. Each of the numbers are different pins,an
 ### Basic features
 
 - GPIO
+- 
 This stands for General purpose Input and Output and are pins that allow the Raspberry PI to interact with the phyiscal world. This allows it to send signals to other electronic conponents. 
 When programming the PICO, the intepreter allocates each pin to a number. For example, GP0 is the first pin.
 
