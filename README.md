@@ -5,10 +5,8 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Links](#links)
-  - [Installation](#installation)
- 
-  
--[What is a Raspnerry pi pico?](#What-is-a-Raspnerry-pi-pico?)
+  - [Installation](#installation) 
+- [What is a Raspnerry pi pico?](#What-is-a-Raspnerry-pi-pico?)
 - [Projects](#projects)
 - [Contributing](#contributing)
 
