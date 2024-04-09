@@ -52,9 +52,6 @@ In summary:
 
 
 
-
-
-
 ## Projects
 
 
