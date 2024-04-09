@@ -6,7 +6,9 @@
   - [Prerequisites](#prerequisites)
   - [Links](#links)
   - [Installation](#installation)
-  - [Understanding the PICO unit](#understand)
+ 
+  
+-[What is a Raspnerry pi pico?](#What-is-a-Raspnerry-pi-pico?)
 - [Projects](#projects)
 - [Contributing](#contributing)
 
@@ -48,10 +50,13 @@ In summary:
 - Click on it and it should ask to install the firmware. Onec done, you can start programming the PICO!
 
 ## Understanding the PICO unit
-The pico
-yytu
 
-yui
 
+
+
+
+
+
+## Projects
 
 
