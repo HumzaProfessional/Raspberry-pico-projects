@@ -103,13 +103,41 @@ time.sleep(.25)    # Led stays off for .25 seconds
 ```
 This the central part of the program where the blink of the led occurs.
 
-The first statement defines how led connecetion to the PICO. In this case, is is powered from pin 25 and returns back to the PICO through GND.
+The first statement defines how the led is connected to the PICO. In this case, is is powered from pin 25 and returns back to the PICO through GND.
 
 The ```led.on()``` informs the pico to send a signal to the led, turning it on. The ```time.sleep(.25)``` make sures it stays on for .25 seconds. It sleep function ensured the next signal happens at a dealy of .25 seconds.
 The ```led.of()``` is similar, turn off the signal and do so for time of .25 seconds. Give this basic setup, the last sleep function doen't mean much, since nothing follows the off signal delay.
 
-However, we add more on and off processeses and change the delays to get some interesting blinking behavior...
+However, we can add more on and off processeses and change the delays to get some interesting blinking behavior...
 
+```python
+
+from machine import Pin
+import time
+
+led = Pin(25, Pin.OUT)
+
+led.on()
+time.sleep(.25)
+led.off()
+time.sleep(.25) 
+led.on()
+time.sleep(.20)
+led.off()
+time.sleep(.20)
+led.off
+time.sleep(.15)
+led.on
+time.sleep(.15)
+led.off()
+time.sleep(.10)
+led.on
+time.sleep(.5)
+led.off
+time.sleep(.5)
+led.on
+time.sleep(1)
+```
 
 ## Contributing
 
