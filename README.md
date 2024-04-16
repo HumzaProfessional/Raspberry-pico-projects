@@ -64,9 +64,9 @@ When programming the PICO, the intepreter allocates each pin to a number. For ex
 
 - GND (Ground)
 
-Basically, the pin that directs the flow of electricity out, comepleting the circuit. If the GPIO are responsible for connections, then the ground pins are responsbile for returing those connections back to the PICO. 
+Basically, the pin that directs the flow of electricity out, comepleting the circuit. If the GPIO are responsible for connections, then the ground pins are responsbile for returning those connections back to the PICO. 
 
-In general circuit terminology, ground generally could refer to the literal ground or to the point the electity returns. This insight can be used as a refernce for Electircal devices such as power cables. However, generally speaking, the ground refers to a point in a cirucit that has 0 potential energy, thus allowing the energy to flow back safelty and complete the cirucit. When desigining on the PICO, just know that the ground is how the negative and positive temrinals are conecected.
+In general circuit terminology, ground generally could refer to the literal ground or to the point the eletricity returns. This insight can be used as a reference point for electrical devices such as power cables. However, generally speaking, the ground refers to a point in a circuit that has 0 potential energy, thus allowing the energy to flow back safely and complete the circuit. When desigining on the PICO, just know that the ground is how the negative and positive terminals are connected.
 
 #### Advanced features
 
