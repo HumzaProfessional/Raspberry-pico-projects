@@ -50,6 +50,7 @@ In summary:
 ## Understanding
 
 ![Raspberry Pico Diagram](https://github.com/HumzaProfessional/Raspberry-pico-projects/blob/main/Pico-R3-Pinout.png)
+(Click on image to get a better view)
 
 This showcases the layout of the PICO. Each of the numbers are different pins,and the words next to them are the their usage. There are many different functionalities on the PICO, showing how versatile it is!
 
@@ -66,7 +67,7 @@ When programming the PICO, the intepreter allocates each pin to a number. For ex
 
 Basically, the pin that directs the flow of electricity out, comepleting the circuit. If the GPIO are responsible for connections, then the ground pins are responsbile for returning those connections back to the PICO. 
 
-In general circuit terminology, ground generally could refer to the literal ground or to the point the eletricity returns. This insight can be used as a reference point for electrical devices such as power cables. However, generally speaking, the ground refers to a point in a circuit that has 0 potential energy, thus allowing the energy to flow back safely and complete the circuit. When desigining on the PICO, just know that the ground is how the negative and positive terminals are connected.
+In general circuit terminology, ground generally could refer to the literal ground or to the point the eletricity returns from source. This insight can be used as a reference point for electrical devices such as power cables. However, generally speaking, the ground refers to a point in a circuit that has 0 potential energy, thus allowing the energy to flow back safely and complete the circuit. When desigining on the PICO, just know that the ground is how the negative are connected
 
 #### Advanced features
 
@@ -115,10 +116,10 @@ This the central part of the program where the blink of the led occurs.
 
 The first statement defines how the led is connected to the PICO. In this case, is is powered from pin 25 and returns back to the PICO through GND.
 
-The ```led.on()``` informs the pico to send a signal to the led, turning it on. The ```time.sleep(.25)``` make sures it stays on for .25 seconds. It sleep function ensured the next signal happens at a dealy of .25 seconds.
+The ```led.on()``` informs the pico to send a signal to the led, turning it on. The ```time.sleep(.25)``` make sures it stays on for .25 seconds. It sleep function ensured the next signal happens at a delay of .25 seconds.
 The ```led.of()``` is similar, turn off the signal and do so for time of .25 seconds. Give this basic setup, the last sleep function doen't mean much, since nothing follows the off signal delay.
 
-However, we can add more on and off processeses and change the delays to get some interesting blinking behavior...
+However, we can add more on and off processeses and change the delays to get some interesting blinking behavior!
 
 ```python
 
@@ -149,7 +150,7 @@ led.on
 time.sleep(.1)
 ```
 
-## Contributing
+## Contributiions
 
 https://projects.raspberrypi.org/en/#hardware
 
